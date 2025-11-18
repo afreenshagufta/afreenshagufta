@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Homelabs
 - 🌱 I’m currently learning CyberSecurity
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on various new projects
+- 🤔 I’m looking for help to land my first job in cybersecurity fiels
 - 💬 Ask me about anything you want
 - 📫 How to reach me: afreenshagufta913@gmail.com
 - 😄 Pronouns: She/her
