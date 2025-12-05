@@ -47,7 +47,7 @@ Here are some of the strong suits I’m sharpening:
 - [LinkedIn](https://www.linkedin.com/in/shagufta-afreen/)  
 - GitHub: [afreenshagufta](https://github.com/afreenshagufta)  
 - Email: afreenshagufta913@gmail.com  
-- Portfolio: (https://afreenshagufta.vercel.app/#)
+- Portfolio: [Shagufta آفرین](https://afreenshagufta.vercel.app/#)
 
 ---
 
