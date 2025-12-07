@@ -29,8 +29,8 @@ Here are some of the strong suits I’m sharpening:
 ### 📊 GitHub Stats  
 
 <p align="left">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreenshagufta&layout=compact&theme=dark&hide_border=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=afreenshagufta&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats-git-masterorg.repl.co/api/top-langs/?username=afreenshagufta&layout=compact&theme=dark&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats-git-masterorg.repl.co/api?username=afreenshagufta&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 ---
