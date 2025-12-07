@@ -29,8 +29,9 @@ Here are some of the strong suits I’m sharpening:
 ### 📊 GitHub Stats  
 
 <p>
-  <img height="180px" src="https://gh-stats-card.vercel.app/api?username=afreenshagufta&theme=vue-dark" />
-  <img height="180px" src="https://gh-stats-card.vercel.app/api/top-langs/?username=afreenshagufta&layout=compact&theme=vue-dark" />
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="60" />
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="60" />
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="60" />
 </p>
 
 
