@@ -28,14 +28,13 @@ Here are some of the strong suits I’m sharpening:
 
 ### 📊 GitHub Stats  
 
-| Top Languages | GitHub Stats |
-|--------------|--------------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreenshagufta&layout=compact&theme=dark" height="180px"> | <img src="https://github-readme-stats.vercel.app/api?username=afreenshagufta&show_icons=true&theme=dark" height="180px"> |
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreenshagufta&layout=compact&theme=dark" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=afreenshagufta&show_icons=true&theme=dark" height="180px">
+</p>
 
 ---
 
-
----
 
 
 ### 💡 Fun Facts & Extras  
