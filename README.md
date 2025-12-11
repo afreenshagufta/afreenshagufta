@@ -28,11 +28,10 @@ Here are some of the strong suits I’m sharpening:
 
 ### 📊 GitHub Stats  
 
-<p>
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="60" />
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="60" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="60" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afreenshagufta&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afreenshagufta&show_icons=true&theme=dark)  
+
+---
 
 
 ---
