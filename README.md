@@ -5,7 +5,7 @@
 
 # 👋 Hi there, I’m **Shagufta آفرین**
 
-> 🛡️ Cybersecurity & CS Masters student by day, chai-powered portfolio builder by night.  
+> 🛡️ Cybersecurity enthusiast & CS graduate student by day, chai-powered portfolio builder by night.  
 > I break things (legally) so others don’t have to.
 
 ---
